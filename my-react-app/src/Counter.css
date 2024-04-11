@@ -1,0 +1,8 @@
+button {
+    border: none;
+    padding: 7px 10px;
+    background: green;
+    color: white;
+    letter-spacing: .5px;
+    margin: 10px;
+}
